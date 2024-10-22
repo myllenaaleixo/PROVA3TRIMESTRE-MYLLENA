@@ -1,0 +1,32 @@
+nav a {
+margin-top: 5px;
+padding: 2px;
+font-size: 20px;
+text-align: none;
+display: flex;
+justify-content: center;
+color:rgba(red, green, blue, alpha)
+}
+
+
+p {
+color:azure
+}
+
+
+.categoria-videos img {
+opacity: 0,6;
+}
+
+.vermelho {
+font-style: italic;
+}
+
+
+.img1 {
+    width: 70%;
+}
+
+.centro{
+    text-align: justify;
+}
